@@ -1,0 +1,33 @@
+Dashboard della Meditazione dei miei Bambini - Gennaio 2024
+Cambio dei Pannolini:
+Visualizzazione quanti cambi di pannolino hanno avuto luogo durante il periodo specificato, suddivisi per ambiente (casa e scuola con le maestre).
+
+Casa:
+
+Numero totale di cambi di pannolino: []
+Grafico temporale giornaliero con dettagli sull'orario dei cambi.
+Scuola con le Maestre:
+
+Numero totale di cambi di pannolino: [378]
+Grafico temporale giornaliero con dettagli sull'orario dei cambi.
+Alimentazione:
+Rileva quante volte i tuoi bambini hanno preso il biberon, sia a casa che a scuola, con un focus sul coinvolgimento delle maestre.
+
+Casa:
+
+Numero totale di volte che hanno preso il biberon: [Totale]
+Grafico temporale giornaliero con dettagli sugli orari dei pasti.
+Scuola con le Maestre:
+
+Numero totale di volte che hanno preso il biberon: [64]
+Grafico a torta e a barra giornaliero con dettagli al nome figli.
+Analisi Comparativa:
+Confronta le abitudini di casa con quelle a scuola per ottenere una visione completa delle routine quotidiane dei miei bambini.
+
+Cambio dei Pannolini:
+
+Grafico comparativo delle medie giornaliere di cambi di pannolino a casa e a scuola.
+Alimentazione:
+
+Grafico comparativo delle medie giornaliere di volte che hanno preso il biberon a casa e a scuola.
+Questa Dashboard è progettata per offrirmi una visione dettagliata e intuitiva delle abitudini quotidiane dei miei bambini, garantendo che possa essere sempre connesso con il loro benessere.
